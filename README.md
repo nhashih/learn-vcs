@@ -13,12 +13,12 @@ Learn Version Control System
 3. Git Revert
   1. Basic Concept ✅
   2. Observing VSCode UI when Conflict Come ✅
-4. Git Refs 
-  1. Basic Concept
-  2. Git Pull on Local ✅
-  3. Changes Code (readme.md) in Remote ✅
-  4. Changes Code (front-end-engineer, resolution-2025) in Local ✅
-  5. git commit on Local  ✅
+4. Git Refs
+   - Basic Concept
+   - Git Pull on Local ✅
+   - Changes Code (readme.md) in Remote ✅
+   - Changes Code (front-end-engineer, resolution-2025) in Local ✅
+   - Git Commit on Local ✅
  
 recall information about the version control system.
 Start at 2024/09/12 - Sep, 12
